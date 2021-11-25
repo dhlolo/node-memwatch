@@ -1,8 +1,8 @@
 {
-  "name": "@lolo/node-memwatch",
+  "name": "node-memwatch-new",
   "description": "Keep an eye on your memory usage, and discover and isolate leaks.",
   "version": "0.0.1",
-  "author": "Lloyd Hilaiel (http://lloyd.io)",
+  "author": "dhlolo",
   "engines": {
     "node": ">= 10.0"
   },
