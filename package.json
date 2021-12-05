@@ -1,7 +1,7 @@
 {
   "name": "node-memwatch-new",
   "description": "Keep an eye on your memory usage, and discover and isolate leaks.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "dhlolo",
   "engines": {
     "node": ">= 10.0"
